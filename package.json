@@ -2,6 +2,7 @@
   "name": "@nerds-and-company/prettier-config",
   "version": "0.0.1",
   "description": "Nerds & Company Prettier Config",
+  "main": "index.json",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nerds-and-company/prettier-config.git"
