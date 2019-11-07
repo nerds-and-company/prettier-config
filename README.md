@@ -7,7 +7,7 @@
 **Install**:
 
 ```bash
-$ yarn add --dev @nerds-and-company/prettier-config
+$ yarn add --dev nerds-and-company-prettier-config
 ```
 
 **Edit `package.json`**:
