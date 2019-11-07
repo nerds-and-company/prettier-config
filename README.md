@@ -15,6 +15,6 @@ $ yarn add --dev nerds-and-company-prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@azz/prettier-config"
+  "prettier": "nerds-and-company-prettier-config"
 }
 ```
