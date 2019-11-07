@@ -1,0 +1,15 @@
+{
+  "name": "@nerds-and-company/prettier-config",
+  "version": "0.0.1",
+  "description": "Nerds & Company Prettier Config",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerds-and-company/prettier-config.git"
+  },
+  "author": "Nerds & Company",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nerds-and-company/prettier-config/issues"
+  },
+  "homepage": "https://github.com/nerds-and-company/prettier-config#readme"
+}
